@@ -1,6 +1,7 @@
 # Ultraviolet-LED-3-Watt
 This repository is not a programming type at this point.  It shows how to power a 3 watt LED without using a constant current LED driver.
 The LED wavelength is 395-405 nm.  The light emitted will be used to search for luminescent rocks such as sodalite. 
+
 I am using 2 lipo 18650 cells in series to power the circuit.  I have them configured as a 2S pack with a jxt-xh 3 pin connector to make 
 the cells easier to charge with a commercial lipo charger.
 The positive voltage output of the 2S pack goes through a single pole single throw toggle switch and a 1N5408 silicon diode before 
