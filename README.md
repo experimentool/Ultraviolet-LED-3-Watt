@@ -11,5 +11,5 @@ A DC current of 500-550 mA is applied to the 3W LED at 3.95 volts.
 I am using unprotected 18650 cells so a 800 mA fast blow fuse has been added to the negative leg of the DC power.
 The cells are also protected from low voltage by the 1N5408 voltage drop of 0.7V and the low voltage cutoff provided 
 by the 3W LED turning off below 2.5V.  So when the cell voltage gets below 3.0 - 3.2 V the current in this part of the circuit falls
-rapidly therby protecting the cells from discharging to an unsafe voltage.
+rapidly thereby protecting the cells from discharging to an unsafe voltage.
 The red LED and the temperature switch are to let the operator know that it may be time to switch off to allow the 3W LED to cool.
